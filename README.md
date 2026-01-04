@@ -17,9 +17,8 @@
       <li>𖹭.ᐟ Frontend Development</li>
     </ul>
   </div>
-
   <div style="flex-shrink: 0;">
-    <img alight="right" src="assets/star.gif" alt="Star" width="180"/>
+    <img src="assets/star.gif" alt="Star" width="180" style="vertical-align: top;"/>
   </div>
 </div>
 
@@ -47,31 +46,20 @@
 
 <h2 align="center">ღ°•Contact Me•°ღ</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/aysecatampatan/" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=white" height="25"/>
-        </a>
-      </td>
-      <td>
-        <a href="mailto:aysemcatampatan@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=black" height="25"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/yy_yesha/" target="_blank">
-          <img src="https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=black" height="25"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.facebook.com/ayseeyahhh" target="_blank">
-          <img src="https://img.shields.io/badge/-Facebook-white?logo=facebook&logoColor=black" height="25"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/aysecatampatan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="25"/>
+  </a>&nbsp;
+  <a href="mailto:aysemcatampatan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=black" height="25"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/yy_yesha/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=black" height="25"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/ayseeyahhh" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-white?logo=facebook&logoColor=black" height="25"/>
+  </a>
 </div>
+
 <br>
 <br>
 
