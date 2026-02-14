@@ -56,8 +56,17 @@
   <a href="https://www.facebook.com/ayseeyahhh" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-white?logo=facebook&logoColor=black" height="25"/>
   </a>
-</div>
+</div><br>
 
+<h2 align="center">ღ°•Stats•°ღ</h2><br>
+<div align="center">
+<img width=390 height=150
+       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=seeyahhh&count_private=true&ring=570001&fire=570001&currStreakLabel=570001&sideLabels=000000&sideNums=000000&dates=000000&border=570001" 
+       alt="streak stats"/>
+  <img width=390 height=150
+       src="https://github-readme-stats-salesp07.vercel.app/api?username=seeyahhh&count_private=true&show_icons=true&title_color=000000&text_color=000000&icon_color=570001&border_color=570001&rank_icon=github" 
+       alt="readme stats" />
+</div>
 <br>
 <br>
 
